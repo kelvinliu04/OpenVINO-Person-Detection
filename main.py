@@ -8,7 +8,7 @@ if __name__ == '__main__':
     ## Config
     ## -----------------------------------------
     # video
-    video_src = "D:\\synnex\\project\\video demo\\sample\\pedestrian.mp4"
+    video_src = "video_src.mp4"
     # config -> visualize
     color_fd = (0, 150, 250)
     # model
